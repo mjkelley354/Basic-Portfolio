@@ -1,5 +1,6 @@
 body {
     color: #777777;
+    background-image: url("./assets/images/background.png");
 }
 .header-bar {
     font-family: 'Georgia', Times, Times New Roman, serif;
