@@ -3,6 +3,9 @@ body {
     background-image: url( https://www.toptal.com/designers/subtlepatterns/patterns/qbkls.png );
     background-repeat: repeat;
 }
+a {
+    text-decoration: none;
+}
 .header-bar {
     font-family: 'Georgia', Times, Times New Roman, serif;
     width: 80%;
