@@ -101,3 +101,13 @@ button {
     border: 0;
     box-shadow: none;
 }
+.portfolio-items {
+    width: 95%;
+    position: relative;
+    left: 20px;
+}
+.port-item {
+    margin: 10px;
+}
+
+
